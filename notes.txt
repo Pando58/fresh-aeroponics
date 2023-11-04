@@ -1,0 +1,14 @@
+Structure
+- Welcome
+    corporate-10
+  - Quick phrase and a call to action button
+- Cards
+    corporate-12
+- Who we are
+    corporate-7
+  - Brief explanation about the company
+- Percentage wheels
+    corporate-12
+- Work with us + card images
+    corporate-19
+  - Two paragraphs, one about more about us, and one about working with us
